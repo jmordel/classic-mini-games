@@ -1,4 +1,4 @@
-# 🎯 Juego del Ahorcado
+#  Juego del Ahorcado
 
 Implementación modular en **Python** del clásico juego del **Ahorcado**, desarrollado como práctica de laboratorio de programación. Incluye modo consola, batería de pruebas unitarias, soporte para palabras con tilde e interfaz gráfica con **Tkinter**.
 
