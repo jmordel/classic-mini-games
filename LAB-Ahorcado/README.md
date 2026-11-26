@@ -4,14 +4,14 @@ Implementación modular en **Python** del clásico juego del **Ahorcado**, desar
 
 ---
 
-## 🛠️ Tecnologías y requisitos
+##  Tecnologías y requisitos
 
 * **Lenguaje:** Python 3.8 o superior.
 * **Librerías utilizadas:** Módulos estándar `random` y `tkinter` (no requiere instalar dependencias externas).
 
 ---
 
-## 📋 Reglas del juego
+##  Reglas del juego
 
 1. El programa selecciona una palabra secreta al azar desde un diccionario de texto.
 2. En cada turno se muestra la palabra oculta mediante guiones bajos (`_`) y el número de intentos disponibles.
@@ -22,7 +22,7 @@ Implementación modular en **Python** del clásico juego del **Ahorcado**, desar
 
 ---
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 ```text
 ├── data/
