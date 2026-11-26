@@ -1,10 +1,10 @@
-# 🎮 Classic Mini-Games en Python
+#  Classic Mini-Games en Python
 
 Colección de juegos clásicos desarrollados de forma modular en **Python** para practicar lógica de programación, estructuras de datos, pruebas unitarias e interfaces gráficas de escritorio con **Tkinter**.
 
 ---
 
-## 🕹️ Catálogo de juegos
+##  Catálogo de juegos
 
 | Proyecto | Descripción | Modos disponibles |
 | :--- | :--- | :--- |
@@ -16,7 +16,7 @@ Colección de juegos clásicos desarrollados de forma modular en **Python** para
 
 ---
 
-## 🛠️ Tecnologías y arquitectura
+##  Tecnologías y arquitectura
 
 * **Lenguaje:** Python 3.8 o superior.
 * **Librerías estándar:** `random`, `os` y `tkinter` (no requiere instalar dependencias externas).
@@ -24,7 +24,7 @@ Colección de juegos clásicos desarrollados de forma modular en **Python** para
 
 ---
 
-## 📁 Estructura general del repositorio
+##  Estructura general del repositorio
 
 ```text
 classic-mini-games/
