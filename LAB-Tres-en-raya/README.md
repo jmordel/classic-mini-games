@@ -1,4 +1,4 @@
-# ❌⭕ Tres en Raya (Tic-Tac-Toe)
+#  Tres en Raya (Tic-Tac-Toe)
 
 Implementación modular en **Python** del clásico **Tres en Raya**, desarrollado como práctica de programación con listas bidimensionales (matrices $3 \times 3$). Incluye modo consola contra una IA básica, pruebas unitarias e interfaz gráfica interactiva con **Tkinter**.
 
@@ -14,7 +14,7 @@ Implementación modular en **Python** del clásico **Tres en Raya**, desarrollad
 ## 📋 Reglas del juego
 
 1. El tablero es una cuadrícula de **$3 \times 3$** casillas inicialmente vacías.
-2. El jugador utiliza la ficha **`X`** y el ordenador la ficha **`O`**.
+2. El jugador utiliza la ficha **X** y el ordenador la ficha **O**.
 3. Por turnos, cada participante coloca una ficha en una casilla libre.
 4. Gana el primero que consiga alinear **3 fichas iguales** en horizontal, vertical o diagonal. Si se completan las 9 casillas sin ganador, la partida termina en **empate**.
 
