@@ -1,4 +1,4 @@
-# 🪨📄✂️ Piedra, Papel o Tijeras
+#  Piedra, Papel o Tijeras
 
 Implementación modular en **Python** del clásico juego **Piedra, Papel o Tijeras**, desarrollado como práctica de laboratorio de programación. El proyecto separa la lógica del juego de su batería de pruebas e incorpora validación de entrada, partidas rápidas y un modo torneo al mejor de tres puntos.
 
@@ -17,9 +17,9 @@ En cada ronda, el usuario y el ordenador eligen una jugada de forma simultánea:
 
 | Jugada | Gana a | Pierde contra | Empata con |
 | :--- | :--- | :--- | :--- |
-| 🪨 **Piedra** | ✂️ Tijeras | 📄 Papel | 🪨 Piedra |
-| 📄 **Papel** | 🪨 Piedra | ✂️ Tijeras | 📄 Papel |
-| ✂️ **Tijeras** | 📄 Papel | 🪨 Piedra | ✂️ Tijeras |
+|  **Piedra** |  Tijeras |  Papel |  Piedra |
+|  **Papel** |  Piedra |  Tijeras |  Papel |
+|  **Tijeras** |  Papel |  Piedra |  Tijeras |
 
 ---
 
