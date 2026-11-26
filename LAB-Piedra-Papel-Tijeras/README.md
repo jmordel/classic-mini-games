@@ -4,14 +4,14 @@ Implementación modular en **Python** del clásico juego **Piedra, Papel o Tijer
 
 ---
 
-## 🛠️ Tecnologías y requisitos
+##  Tecnologías y requisitos
 
 * **Lenguaje:** Python 3.8 o superior.
 * **Librerías utilizadas:** Módulo estándar `random` (no requiere instalar dependencias externas).
 
 ---
 
-## 📋 Reglas del juego
+##  Reglas del juego
 
 En cada ronda, el usuario y el ordenador eligen una jugada de forma simultánea:
 
@@ -23,7 +23,7 @@ En cada ronda, el usuario y el ordenador eligen una jugada de forma simultánea:
 
 ---
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 ```text
 ├── src/
