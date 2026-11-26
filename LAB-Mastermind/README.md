@@ -1,4 +1,4 @@
-# 🧠 Mastermind
+#  Mastermind
 
 Implementación modular en **Python** del clásico juego de deducción lógica **Mastermind**, desarrollado como práctica de programación. El proyecto separa la lógica del motor de pistas, la validación de entradas y el tablero de historial de su batería de pruebas unitarias.
 
@@ -17,12 +17,12 @@ El ordenador genera en secreto una combinación oculta de **4 colores** elegidos
 
 | Inicial | Color |
 | :---: | :--- |
-| **R** | 🔴 Rojo |
-| **A** | 🔵 Azul |
-| **V** | 🟢 Verde |
-| **M** | 🟣 Morado |
-| **N** | 🟠 Naranja |
-| **B** | ⚪ Blanco |
+| **R** |  Rojo |
+| **A** |  Azul |
+| **V** |  Verde |
+| **M** |  Morado |
+| **N** |  Naranja |
+| **B** |  Blanco |
 
 En cada turno (hasta un máximo de **10 intentos**), el jugador propone una secuencia de 4 letras y recibe dos pistas:
 * **Plenos:** número de colores acertados en su **posición exacta**.
