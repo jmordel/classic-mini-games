@@ -4,14 +4,14 @@ Implementación modular en **Python** del clásico juego de deducción lógica *
 
 ---
 
-## 🛠️ Tecnologías y requisitos
+##  Tecnologías y requisitos
 
 * **Lenguaje:** Python 3.8 o superior.
 * **Librerías utilizadas:** Módulo estándar `random` (no requiere instalar dependencias externas).
 
 ---
 
-## 📋 Reglas del juego
+##  Reglas del juego
 
 El ordenador genera en secreto una combinación oculta de **4 colores** elegidos entre 6 opciones posibles:
 
@@ -30,7 +30,7 @@ En cada turno (hasta un máximo de **10 intentos**), el jugador propone una secu
 
 ---
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 ```text
 ├── src/
