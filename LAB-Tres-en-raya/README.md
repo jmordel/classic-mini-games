@@ -4,14 +4,14 @@ Implementación modular en **Python** del clásico **Tres en Raya**, desarrollad
 
 ---
 
-## 🛠️ Tecnologías y requisitos
+##  Tecnologías y requisitos
 
 * **Lenguaje:** Python 3.8 o superior.
 * **Librerías utilizadas:** Módulos estándar `random` y `tkinter` (no requiere instalar dependencias externas).
 
 ---
 
-## 📋 Reglas del juego
+##  Reglas del juego
 
 1. El tablero es una cuadrícula de **$3 \times 3$** casillas inicialmente vacías.
 2. El jugador utiliza la ficha **X** y el ordenador la ficha **O**.
@@ -20,7 +20,7 @@ Implementación modular en **Python** del clásico **Tres en Raya**, desarrollad
 
 ---
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 ```text
 ├── src/
